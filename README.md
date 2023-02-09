@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dadezz
-- 👀 I’m interested in IT, economics, astrophysics, libertarianism (btc maximalist)
+- 👀 I’m interested in IT, economics, astrophysics, cybersecurity
 - 🌱 I’m currently learning IT at University of Venice, I attended astronomy courses at the University of Padua
