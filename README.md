@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @dadezz
 - 👀 I’m interested in IT, economics, astrophysics, libertarianism (btc maximalist)
 - 🌱 I’m currently learning IT at University of Venice, I attended astronomy courses at the University of Padua
-- 📫 How to reach me: telegram, same @nickname
-- 📚 Founder t.me/librilibertari (Biblioteca Libertaria)
