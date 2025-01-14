@@ -7,7 +7,4 @@
 
 
 ***
-### Languages I use:
-- C/C++
-- Java
-- Python
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadezz&hide=html,Jupyter%20Notebook)
