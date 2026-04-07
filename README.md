@@ -11,7 +11,3 @@
   - fackend development (Java, Spring)
   - frontend development (React Flow) 
 - I contributed as a **backend developer** at [BitcoinPeople](https://bitcoinpeople.it/) (Dart)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadezz&hide=html,Jupyter%20Notebook)
