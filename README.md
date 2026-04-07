@@ -5,8 +5,8 @@
 - 📚 I'm currently studying for a **Master's degree in Computer Science** at the University of Venice
 - 🛡️ I participated in and contributed as an instructor in the CyberChallenge.IT program, focusing on ethical hacking and cybersecurity.
 - 🔭 I also attended **astronomy courses** at the University of Padua.
-- 💼 I'm an **Autodesk Alias plug-in developer** for [RBF-Morph](https://www.rbf-morph.com/) (C++)
-- I am currently working as a freelance developer on the complete rewrite of a hospital pneumatic tube system, including:
+- 💼 I'm an **Autodesk Alias plug-in developer** for [RBF-Morph](https://www.rbf-morph.com/) (C++), integrating RBF mesh morphing into aerodynamic design workflows — [thesis](https://github.com/dadezz/alias-plugin-thesis) · [pdf](https://github.com/dadezz/alias-plugin-thesis/blob/main/Tesi_triennale_Zambon_Davide.pdf)
+- I am currently working as a **freelance developer** on the complete rewrite of a hospital pneumatic tube system, including:
   - firmware development (C++)
   - fackend development (Java, Spring)
   - frontend development (React Flow) 
