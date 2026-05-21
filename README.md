@@ -6,7 +6,7 @@
 - 🛡️ I participated in and contributed as an instructor in the CyberChallenge.IT program, focusing on ethical hacking and cybersecurity.
 - 🔭 I also attended **astronomy courses** at the University of Padua.
 - 💼 I'm an **Autodesk Alias plug-in developer** for [RBF-Morph](https://www.rbf-morph.com/) (C++), integrating RBF mesh morphing into aerodynamic design workflows — [thesis](https://github.com/dadezz/alias-plugin-thesis) · [pdf](https://github.com/dadezz/alias-plugin-thesis/blob/main/Tesi_triennale_Zambon_Davide.pdf)
-- I am currently working as a **freelance developer** on the complete rewrite of a hospital pneumatic tube system, including:
+- I am currently working as a [**freelance developer**](https://hesaka.dev) on the complete rewrite of a hospital pneumatic tube system, including:
   - firmware development (C++)
   - fackend development (Java, Spring)
   - frontend development (React Flow) 
